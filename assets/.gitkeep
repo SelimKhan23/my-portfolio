@@ -1,0 +1,8 @@
+# This file is intentionally left empty.
+# It's here to ensure the 'assets' directory is created and tracked by Git,
+# even if it's initially empty. You should place your images and resume file here.
+#
+# Example:
+# - assets/resume.pdf
+# - assets/profile_picture.jpg
+# - assets/project1_thumbnail.png
